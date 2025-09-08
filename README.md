@@ -3,29 +3,7 @@
 ##  Descripción
 Este proyecto implementa un **pipeline ETL reproducible en Python**, tomando datos de entrada en formato **JSON/CSV**, aplicando transformaciones y generando salidas en **Parquet y CSV**.  
 El objetivo es evaluar la capacidad de construir un flujo de datos idempotente, modular, probado y documentado.
-##  Estructura del Proyecto
-etl-test/
-├── sample_data/ # Datos de entrada (mock API y CSVs)
-│ ├── api_orders.json
-│ ├── users.csv
-│ └── products.csv
-├── output/ # Resultados del ETL (raw y curated)
-│ ├── raw/
-│ └── curated/
-├── src/ # Código fuente del ETL
-│ ├── api_client.py
-│ ├── db.py
-│ ├── etl_job.py
-│ ├── logging_utils.py
-│ ├── logger_config.py
-│ └── transforms.py
-├── tests/ # Pruebas unitarias con pytest
-│ ├── test_operaciones.py
-│ └── test_transforms.py
-├── docs/
-│ └── design_notes.md # Decisiones de diseño
-  └── Bonus_BI.md # Informacion Capa de visualizacion
-└── README.md
+
 
 
 # ETL Test 

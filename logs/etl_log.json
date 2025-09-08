@@ -1,0 +1,10 @@
+{"time": "2025-09-07 23:46:24", "level": "INFO", "logger": "etl", "message": "Evento ETL Job - START", "event": "ETL Job", "status": "START"}
+{"time": "2025-09-07 23:46:24", "level": "INFO", "logger": "etl", "message": "M\u00e9trica dim_user.records = 4", "entity": "dim_user", "metric": "records", "value": 4}
+{"time": "2025-09-07 23:46:24", "level": "INFO", "logger": "etl", "message": "M\u00e9trica dim_product.records = 5", "entity": "dim_product", "metric": "records", "value": 5}
+{"time": "2025-09-07 23:46:24", "level": "INFO", "logger": "etl", "message": "M\u00e9trica fact_order.records = 3", "entity": "fact_order", "metric": "records", "value": 3}
+{"time": "2025-09-07 23:46:24", "level": "INFO", "logger": "etl", "message": "ETL finished"}
+{"time": "2025-09-08 00:01:37", "level": "INFO", "logger": "etl", "message": "Evento ETL Job - START", "event": "ETL Job", "status": "START"}
+{"time": "2025-09-08 00:01:37", "level": "INFO", "logger": "etl", "message": "M\u00e9trica dim_user.records = 6", "entity": "dim_user", "metric": "records", "value": 6}
+{"time": "2025-09-08 00:01:37", "level": "INFO", "logger": "etl", "message": "M\u00e9trica dim_product.records = 5", "entity": "dim_product", "metric": "records", "value": 5}
+{"time": "2025-09-08 00:01:37", "level": "INFO", "logger": "etl", "message": "M\u00e9trica fact_order.records = 4", "entity": "fact_order", "metric": "records", "value": 4}
+{"time": "2025-09-08 00:01:37", "level": "INFO", "logger": "etl", "message": "ETL finished"}

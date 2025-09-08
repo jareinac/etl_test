@@ -1,0 +1,103 @@
+[
+  {
+    "order_id": "o_1001",
+    "user_id": "u001",
+    "amount": 500,
+    "currency": "USD",
+    "created_at": "2025-09-20T15:23:10Z",
+    "items": [
+      {
+        "sku": "p_1",
+        "qty": 2,
+        "price": 60.0
+      }
+    ],
+    "metadata": {
+      "source": "api",
+      "promo": null
+    }
+  },
+  {
+    "order_id": "o_1001",
+    "user_id": "u002",
+    "amount": 600,
+    "currency": "USD",
+    "created_at": "2025-09-01T15:23:10Z",
+    "items": [
+      {
+        "sku": "p_1",
+        "qty": 2,
+        "price": 60.0
+      }
+    ],
+    "metadata": {
+      "source": "api",
+      "promo": null
+    }
+  },
+  {
+    "order_id": "o_1002",
+    "user_id": "u003",
+    "amount": 300.0,
+    "currency": "USD",
+    "created_at": null,
+    "items": [],
+    "metadata": {
+      "source": "api"
+    }
+  },
+  {
+    "order_id": "o_1002",
+    "user_id": "u004",
+    "amount": 125.5,
+    "currency": "USD",
+    "created_at": "2025-08-21T15:23:10Z",
+    "items": [
+      {
+        "sku": "p_2",
+        "qty": 2,
+        "price": 60.0
+      }
+    ],
+    "metadata": {
+      "source": "api",
+      "promo": null
+    }
+  },
+  {
+    "order_id": "o_1003",
+    "user_id": "u005",
+    "amount": 125000,
+    "currency": "COP",
+    "created_at": "2025-08-22T15:23:10Z",
+    "items": [
+      {
+        "sku": "p_3",
+        "qty": 1,
+        "price": 10.0
+      }
+    ],
+    "metadata": {
+      "source": "api",
+      "promo": null
+    }
+  },
+  {
+    "order_id": "o_1004",
+    "user_id": "u004",
+    "amount": 125000,
+    "currency": "COP",
+    "created_at": "2025-09-01T11:23:10Z",
+    "items": [
+      {
+        "sku": "p_4",
+        "qty": 1,
+        "price": 10.0
+      }
+    ],
+    "metadata": {
+      "source": "api",
+      "promo": null
+    }
+  }
+]
